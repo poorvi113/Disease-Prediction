@@ -31,7 +31,7 @@ disease_prediction/
 
 🚀 How to Run
 1️⃣ Clone the repository:
-  git clone https://github.com/Akshitha-Mothkur/disease-prediction
+  git clone 
   cd disease-prediction
 
 2️⃣ Install dependencies:
